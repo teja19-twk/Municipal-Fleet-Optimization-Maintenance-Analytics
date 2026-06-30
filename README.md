@@ -6,20 +6,6 @@ The Municipal Fleet Optimization & Maintenance Analytics project is an end-to-en
 
 The project combines MySQL, Python, Machine Learning, and Power BI to analyze fleet performance, maintenance history, vehicle health, operating costs, and future maintenance requirements. It enables municipal departments to make proactive, data-driven decisions that reduce maintenance costs, improve vehicle utilization, and extend fleet lifespan.
 
-## 📊 Dashboard Preview
-
-**Dashboard 1 — Executive Fleet Overview**
-Displays key fleet KPIs, fleet health, vehicle distribution, maintenance costs, and operational performance.
-*(Insert Dashboard1.png)*
-
-**Dashboard 2 — Vehicle Analytics Dashboard**
-Provides detailed insights into vehicle age, fuel type, odometer readings, degradation scores, and vehicle status.
-*(Insert Dashboard2.png)*
-
-**Dashboard 3 — Maintenance Analytics Dashboard**
-Shows repair trends, maintenance costs, downtime analysis, maintenance types, and predictive maintenance insights.
-*(Insert Dashboard3.png)*
-
 ## 📖 Business Problem
 
 Municipal organizations operate hundreds or thousands of vehicles across departments such as sanitation, public works, police, fire, and parks.
@@ -72,28 +58,27 @@ The dataset contains fleet inventory, maintenance history, and machine learning 
 ## 🔄 Project Workflow
 
 Municipal Fleet Data
-│
-▼
-SQL Data Processing
-│
-▼
+          │
+          ▼
+   SQL Data Processing
+          │
+          ▼
 Data Cleaning & EDA (Python)
-│
-▼
+          │
+          ▼
 Feature Engineering
-│
-▼
+          │
+          ▼
 Machine Learning Model
-│
-▼
+          │
+          ▼
 Fleet Health Prediction
-│
-▼
+          │
+          ▼
 Power BI Dashboard
-│
-▼
+          │
+          ▼
 Business Insights & Recommendations
-
 ## 📊 SQL Analysis
 
 - Fleet Inventory Analysis
@@ -171,19 +156,7 @@ This project helps municipal organizations:
 - Cloud Deployment
 - Predictive Failure Detection
 
-## 📂 Repository Structure
 
-Municipal-Fleet-Optimization-Maintenance-Analytics/
-│
-├── data/
-├── sql/
-├── python/
-├── powerbi/
-├── dashboards/
-├── outputs/
-├── images/
-├── README.md
-└── requirements.txt
 
 ## 🎯 Project Outcome
 
